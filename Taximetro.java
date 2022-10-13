@@ -3,7 +3,7 @@
  *  La clase modela un taximetro simplificado que recoge estadísticas
  *  de las carreras realizadas, tiempo total, distancia...
  * 
- * @author  
+ * @author  Randy
  */
 public class Taximetro
 {
